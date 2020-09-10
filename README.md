@@ -27,8 +27,8 @@
 - **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, IPFS, preloading, predictive prefetching etc.
 - **Progressive Web Apps Module** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
 - **AMP-HTML Module** - AMP-HTML features making it easier to create AMP-Content, AMP-Email and AMP-Stories etc.
-- **Semantic Module** - Schema.org, JSON-LD, Microformats, ontologies etc.
-- **Frameworks Module** - Vanilla js ajax framework (no more jquery), Angular, React, Vue.js, Bootstrap, Web Components etc.
+- **Semantic Module** - Schema.org, JSON-LD, microformats, ontologies etc.
+- **Frameworks Module** - Vanilla js ajax framework (no more jquery), intergrated features for Angular, React, Vue.js, Bootstrap, Web Components etc.
 
 - **Developer Module** - 
 
