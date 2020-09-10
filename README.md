@@ -38,11 +38,11 @@
 
 - **Performance Module** - 
 
-- **Form Module** - 
+- **Internalization Module** - 
 
 - **Crypto and Web 3.0 Module** - 
 
-- **Internalization Module** - 
+- **Form Module** - 
 
 
 ...more modules will be uploaded
