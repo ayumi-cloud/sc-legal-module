@@ -40,7 +40,7 @@
 
 - **Form Builder Module** - 
 
-- **Crypto Module** - 
+- **Crypto and Web 3.0 Module** - 
 
 
 ...more modules will be uploaded
