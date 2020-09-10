@@ -34,11 +34,11 @@
 
 - **CDN Module** - 
 
-- **Form Builder Module** - 
+- **Layout and Dashboard Module** - 
 
 - **Performance Module** - 
 
-- **Layout and Dashbaord Module** - 
+- **Form Builder Module** - 
 
 - **Crypto Module** - 
 
