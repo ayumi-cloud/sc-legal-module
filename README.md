@@ -22,14 +22,9 @@
 
 ## October II Modules :eyes:
 
-<p align="center">
-  <a href="https://github.com/ayumi-cloud/oc2-security-module"><img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/module-icons/security.png" alt="Security" width="365" height="435"></a>
-  <a href="https://github.com/ayumi-cloud/oc2-legal-module"><img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/module-icons/legal.png" alt="Legal" width="289" height="444"></a>
-</p>
-
 - **Security Module** - Enhanced security features including firewall, virus scanner, code checker, 2fa, u2f, security api's etc.
 - **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, IPFS, preloading, predictive prefetching etc.
-- **Progressive Web Apps** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
+- **Progressive Web Apps Module** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
 - **Semantic Module** - Schema.org, JSON-LD, Microformats, ontologies etc.
 - **Frameworks Module** - Vanilla js ajax framework (no more jquery), Angular, React, Vue.js, Bootstrap, Web Components etc.
 
