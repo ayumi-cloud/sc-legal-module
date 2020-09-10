@@ -30,6 +30,19 @@
 - **Semantic Module** - Schema.org, JSON-LD, Microformats, ontologies etc.
 - **Frameworks Module** - Vanilla js ajax framework (no more jquery), Angular, React, Vue.js, Bootstrap, Web Components etc.
 
+- **Developer Module** - 
+
+- **CDN Module** - 
+
+- **Form Builder Module** - 
+
+- **Performance Module** - 
+
+- **Layout and Dashbaord Module** - 
+
+- **Crypto Module** - 
+
+
 ...more modules will be uploaded
 
 ## Table of contents
