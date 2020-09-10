@@ -38,9 +38,11 @@
 
 - **Performance Module** - 
 
-- **Form Builder Module** - 
+- **Form Module** - 
 
 - **Crypto and Web 3.0 Module** - 
+
+- **Internalization Module** - 
 
 
 ...more modules will be uploaded
