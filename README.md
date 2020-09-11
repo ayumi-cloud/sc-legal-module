@@ -53,6 +53,23 @@
 
 - [Transparency](#transparency-)
 - [Introduction](#intro-)
+- [Goals](#goals-soccer)
+- [Machine Learning](#machine-learning-computer)
+- [Citation](#citation-)
+- [Usage](#usage-)
+- - [Requirements](#requirements-)
+- - [Enable the following Apache httpd modules](#enable-the-following-apache-httpd-modules-)
+- - [Microsoft IIS Serve](#microsoft-iis-server-%EF%B8%8F)
+- - [Nginx Server](#nginx-server-)
+- [Issues](#issues-)
+- [Completed Issues](#completed-issues-)
+- [Reporting a Vulnerability](#reporting-a-vulnerability-)
+- [Code of Conduct](#code-of-conduct-)
+- [For Future](#for-future-)
+- [Contributing](#contributing-)
+- [PSR](#psr-%EF%B8%8F)
+- [Semantic Versioning](#semantic-versioning-)
+- [Copyright and License](#copyright-and-license-)
 
 ## Transparency 📢
 
@@ -161,17 +178,13 @@ Using the Nginx server settings has a few required steps to be able to work.
 
 ##### **Support**
 
- * Nginx v**1.8.0**+
+* Nginx v**1.8.0**+
 
 ## Issues 🔨
 
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/oc2-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/oc2-legal-module">
 
 If you face any issue, you can create a new issue in the Issues Tab and we will be glad to help you out!
-
-### Completed Issues 🏆
-
-<p align="center"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/issues-200.png"></p>
 
 ## Reporting a Vulnerability 💥
 
