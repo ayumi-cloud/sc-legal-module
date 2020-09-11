@@ -62,4 +62,14 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 ## Introduction x
 
-xxx
+There are lots of many mediocre projects trying to tackle this subject and use either insecure cookies or dont even pass ePrivacy and GDPR laws properly. Laravel is a wonderful framework and we have built all the tools directly into the October II framework for developers and webmasters to easily create all their legal web pages for their websites and apps. Everything is fully customizable and takes very little time to setup.
+
+The legal module has been fully optimized to work with DPWA/PWA and AMP-HTML projects.
+
+## Goals
+
+
+
+
+
+
