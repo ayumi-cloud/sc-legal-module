@@ -97,7 +97,7 @@ This module uses machine learning to help speed up creating the legal pages for 
   <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
 </a>
 
-If you use this security module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this security module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
+If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
 
 ## Usage 🔧
 
@@ -163,12 +163,9 @@ Using the Nginx server settings has a few required steps to be able to work.
 
  * Nginx v**1.8.0**+
 
-
-
-
 ## Issues 🔨
 
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/oc2-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/oc-security-module">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/oc2-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/oc2-legal-module">
 
 If you face any issue, you can create a new issue in the Issues Tab and we will be glad to help you out!
 
@@ -217,7 +214,7 @@ Patches and pull requests are encouraged. All code should follow the [PSR-1](htt
 
 ### PSR ♻️
 
-This security module uses some PSR standards to be the most interoperable possible:
+This legal module uses some PSR standards to be the most interoperable possible:
 
 - [PSR-6](https://www.php-fig.org/psr/psr-6/) Caching Interface.
 - [PSR-7](https://www.php-fig.org/psr/psr-7/) Standard interfaces to represent http requests, responses and uris.
@@ -230,7 +227,7 @@ We also suggest using Cross-browser testing provided by BrowserStack (*) where a
 
 ## Semantic Versioning ✅
 
-The Security Module code uses [Semantic Versioning](https://semver.org/).
+The legal Module code uses [Semantic Versioning](https://semver.org/).
 
 We have two types of releases, Major releases (3.0.0, 3.1.0, 3.2.0 etc.) and point releases (3.0.1, 3.0.2 etc.).
 
