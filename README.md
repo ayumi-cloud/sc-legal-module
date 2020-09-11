@@ -59,7 +59,7 @@
 - [Usage](#usage-)
   - [Requirements](#requirements-)
   - [Enable the following Apache httpd modules](#enable-the-following-apache-httpd-modules-)
-  - [Microsoft IIS Serve](#microsoft-iis-server-%EF%B8%8F)
+  - [Microsoft IIS Server](#microsoft-iis-server-%EF%B8%8F)
   - [Nginx Server](#nginx-server-)
 - [Issues](#issues-)
 - [Completed Issues](#completed-issues-)
