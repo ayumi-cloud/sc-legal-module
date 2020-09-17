@@ -54,6 +54,7 @@
 - [Transparency](#transparency-)
 - [Introduction](#intro-)
 - [Goals](#goals-soccer)
+- [Privacy Controls](#privacy-controls-sparkles)
 - [Machine Learning](#machine-learning-computer)
 - [Citation](#citation-)
 - [Usage](#usage-)
