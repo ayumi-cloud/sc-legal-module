@@ -102,7 +102,9 @@ The legal module makes it easier to create and manage with custom built tools fo
 - Data Protection Officer (DPO)
 - Data Controller
 
+## Privacy Controls :sparkles:
 
+This module allows the website / app's external users to have full control of their privacy policies giving them all the correct infomation and controls to adjust their settings they way they want. The developer is given easy to use tools to setup the privacy controls, using a simple wrapper method on sections of code they wish to allow the end-users to be able to control. Webmasters can setup their privacy in no time at all, without needing to write any code at all, using the module's custom tools and be able to preview everything in the backend, without needing to switch to the frontend to preview the end result.
 
 ## Machine Learning :computer:
 
