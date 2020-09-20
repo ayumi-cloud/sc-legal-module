@@ -188,7 +188,7 @@ Using the Nginx server settings has a few required steps to be able to work.
 
 #### API's :gem:
 
-- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities.
+- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. ES6 and **MutationObserver API** to update the DOM widgets.
 
 ## Issues 🔨
 
