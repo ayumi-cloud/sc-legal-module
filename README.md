@@ -142,8 +142,6 @@ Laravel 7 continues the improvements made in Laravel 6.x by introducing Laravel 
 
 - Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
 
-<p align="center"><img src="https://github.com/ayumi-cloud/oc2-security-module/blob/master/src/assets/images/laravel-history.png"></p>
-
 - SQLite 3.7.11 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
 
 #### Enable the following Apache httpd modules 🔧
