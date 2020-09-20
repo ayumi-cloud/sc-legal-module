@@ -59,10 +59,10 @@
 - [Citation](#citation-)
 - [Usage](#usage-)
   - [Requirements](#requirements-)
-  x
   - [Enable the following Apache httpd modules](#enable-the-following-apache-httpd-modules-)
   - [Microsoft IIS Server](#microsoft-iis-server-%EF%B8%8F)
   - [Nginx Server](#nginx-server-)
+  - [API's](#apis-gem)
 - [Issues](#issues-)
 - [Completed Issues](#completed-issues-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
@@ -142,10 +142,6 @@ Laravel 7 continues the improvements made in Laravel 6.x by introducing Laravel 
 
 - SQLite 3.7.11 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
 
-#### API's :gem:
-
-- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities.
-
 #### Enable the following Apache httpd modules 🔧
 
 We have a dedicated Apache section for users using `.htaccess` some configurations won't have any effect if the appropriate modules aren't enabled. So, in order for everything to work as intended, you need to ensure the you have the following Apache modules enabled:
@@ -187,6 +183,10 @@ Using the Nginx server settings has a few required steps to be able to work.
 ##### **Support**
 
 * Nginx v**1.8.0**+
+
+#### API's :gem:
+
+- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities.
 
 ## Issues 🔨
 
