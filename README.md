@@ -89,20 +89,25 @@ The legal module has been fully optimized to work with DPWA/PWA and AMP-HTML pro
 
 The legal module makes it easier to create and manage with custom built tools for the following:
 
-- Opt-Out
-- Opt-In
-- Privacy Policy
-- Cookie Policy
-- Cookie Banner
-- Cookie Manager
-- Terms and Conditions
-- GDPR
-- ePriavcy
-- EU-U.S. Framework
-- Swiss-U.S. Privacy Shield Framework
+- 18 U.S.C. 2257 Compliance Notice
 - California Consumer Privacy Act (CCPA)
+- Cookie Policy
+- Copyright Notification
+- Copyscape Plagiarism Policy
+- Creative Commons License
 - Data Protection Officer (DPO)
-- Data Controller
+- Digital Millennium Copyright Act (DMCA)
+- ePrivacy
+- EU Representative
+- EU-U.S. Privacy Shield Frameworks
+- GDPR
+- Opt-In Policy
+- Opt-Out Policy
+- Privacy Policy
+- Push Notification Policy
+- Spam Abuse
+- Swiss-U.S. Privacy Shield Frameworks
+- Terms and Conditions
 
 ## Privacy Controls :sparkles:
 
