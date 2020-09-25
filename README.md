@@ -6,9 +6,7 @@
 
 <p align="center"><a href="https://paypal.me/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/paypal-button.svg"></a></p>
 
-<p align="center">This repo to gather legal enhancement ideas and to monitor progress.</p>
-
-<p align="center">Feel free to add issues containing legal ideas, requests and infomation.</p>
+<p align="center">This repo to gather legal enhancement ideas and to monitor progress. Feel free to add issues containing legal ideas, requests and infomation.</p>
 
 <p align="center"><strong>The legal code is not held in this repo - but in a private repo (being heavily developed)</strong></p>
 
