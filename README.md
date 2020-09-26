@@ -93,6 +93,7 @@ The legal module makes it easier to create and manage with custom built tools fo
 - EU Representative
 - EU-U.S. Privacy Shield Frameworks
 - GDPR
+- Health Insurance Portability and Accountability Act (HIPAA)
 - Opt-In Policy
 - Opt-Out Policy
 - Privacy Policy
