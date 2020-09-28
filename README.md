@@ -1,4 +1,4 @@
-<h3 align="center">October CMS Version II Proposal - Legal Module</h3>
+<h3 align="center">Codename: Summer CMS (our October CMS update proposal) - Legal Module</h3>
 
 <p align="center"><img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/module-icons/legal.png"></p>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## October II Modules :eyes:
+## Summer CMS Modules :eyes:
 
 **Note: (*) This is a very brief overview of the modules and doesn't list the full features included in each module (this is intended to give users an overview picture).**
 
@@ -67,13 +67,13 @@
 
 ## Transparency 📢
 
-This project is completely transparent and honest, before we started we contacted and discussed this project with the authors and admins of the October project. We have given the links to this repo to the authors and we continue to want to be transparent throughout the whole process! We feel it's important to state this and be open. This repo is made up of one module, which is part of several other modules all dedicated to different sections of an October II proposal. Instead of writing ideas and suggestions, we have taken a pro-active approach and are actively coding a fully working solution. The code is held on private repo's because the code is being heavily developed and changed on a daily basis. We will release a stable release to the admins and authors in private for feedback before releasing to the general public. This is a long-term project and will continue to grow!
+This project is completely transparent and honest, before we started we contacted and discussed this project with the authors and admins of the October project. We have given the links to this repo to the authors and we continue to want to be transparent throughout the whole process! We feel it's important to state this and be open. This repo is made up of one module, which is part of several other modules all dedicated to different sections of an Summer CMS proposal. Instead of writing ideas and suggestions, we have taken a pro-active approach and are actively coding a fully working solution. The code is held on private repo's because the code is being heavily developed and changed on a daily basis. We will release a stable release to the admins and authors in private for feedback before releasing to the general public. This is a long-term project and will continue to grow!
 
 Over years we have coded and created well over a hundred pull requests (under various github accounts) which have been merged to the October version one projects core, we have never asked or recevived any money for any of the pull requests. We use the cms for professional purposes and therefore it is beneficial for our companies to have a professional working solution to give our end-users and clients. In order for us to delivery a high quality product we made the discussion to update the cms as there have been a lot of new api's, frameworks, libraries  and technologies been added to the internet over the years since the initial release of the cms.
 
 ## Introduction :star:
 
-There are lots of many mediocre projects trying to tackle this subject and use either insecure cookies or dont even pass ePrivacy and GDPR laws properly. Laravel is a wonderful framework and we have built all the tools directly into the October II framework for developers and webmasters to easily create all their legal web pages for their websites and apps. Everything is fully customizable and takes very little time to setup.
+There are lots of many mediocre projects trying to tackle this subject and use either insecure cookies or dont even pass ePrivacy and GDPR laws properly. Laravel is a wonderful framework and we have built all the tools directly into the Summer CMS framework for developers and webmasters to easily create all their legal web pages for their websites and apps. Everything is fully customizable and takes very little time to setup.
 
 The legal module has been fully optimized to work with DPWA/PWA and AMP-HTML projects.
 
@@ -219,7 +219,7 @@ If in doubt, feel free to reach out to us!
 
 ## Code of Conduct 💯
 
-In order to ensure that the October II proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/oc2-legal-module/blob/master/CODE_OF_CONDUCT.md).
+In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/oc2-legal-module/blob/master/CODE_OF_CONDUCT.md).
 
 ## For Future 🔮
 
