@@ -45,7 +45,7 @@
 
 - [Transparency](#transparency-)
 - [Introduction](#intro-)
-- [Naming Prefix](#)
+- [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Goals](#goals-soccer)
 - [Privacy Controls](#privacy-controls-sparkles)
 - [Machine Learning](#machine-learning-computer)
