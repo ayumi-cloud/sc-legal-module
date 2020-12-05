@@ -1,6 +1,6 @@
 <h3 align="center">Codename: Summer CMS (our October CMS update proposal) - Legal Module</h3>
 
-<p align="center"><img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/legal-cover.jpg"></p>
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/legal-cover.jpg"></p>
 
 <p align="center"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <a href="https://travis-ci.org/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/travis.svg" alt="Build Status"></a> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/php.svg"> <a href="https://codecov.io/gh/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/coverage.svg" alt="Codecov"></a> <a href="https://pullreminders.com?ref=badge"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/pull.svg" alt="Pull Reminders"></a> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
 
@@ -16,8 +16,8 @@
 
 **Note: (*) This is a very brief overview of the modules and doesn't list the full features included in each module (this is intended to give users an overview picture).**
 
-- **[Security Module](https://github.com/ayumi-cloud/oc2-security-module)** - Enhanced security features including firewall, virus scanner, code checker, 2fa, u2f, security api's etc.
-- **[Legal Module](https://github.com/ayumi-cloud/oc2-legal-module)** - Legal features including tools for GDPR, ePrivacy, CCPA, Cookie Policy, Privacy Policy, Terms and Conditions, 2257 etc.
+- **[Security Module](https://github.com/ayumi-cloud/sc-security-module)** - Enhanced security features including firewall, virus scanner, code checker, 2fa, u2f, security api's etc.
+- **[Legal Module](https://github.com/ayumi-cloud/sc-legal-module)** - Legal features including tools for GDPR, ePrivacy, CCPA, Cookie Policy, Privacy Policy, Terms and Conditions, 2257 etc.
 - **Protocol Module** - Intergrated features including HTTP/2, HTTP/3 with QUIC, IPFS, preloading, predictive prefetching etc.
 - **Progressive Web Apps Module** - PWA and DPWA, Service workers, caching, manifest, banners, icons, badges, native api's etc.
 - **AMP-HTML Module** - AMP-HTML features making it easier to create AMP-Content, AMP-Email and AMP-Stories etc.
@@ -124,7 +124,7 @@ If you use this legal module for your research, then kindly cite it. Click the a
 
 ## Usage 🔧
 
-<img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/laravel.svg">
+<img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/laravel.svg">
 
 - Laravel `5.x` to `8.x` are supported.
 
@@ -138,7 +138,7 @@ PHP `8.0` is coming around November 2020 and we have plans to update our code ar
 
 - Laravel 6.0 LTS (we currently use the latest LTS versions, due to the community consensus).
 
-<p align="center"><img src="https://github.com/ayumi-cloud/oc2-legal-module/blob/master/src/assets/images/laravel-history.png"></p>
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/laravel-history.png"></p>
 
 Laravel 7 continues the improvements made in Laravel 6.x by introducing Laravel Airlock. Laravel Airlock provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. We recommend the following:
 
@@ -198,7 +198,7 @@ Using the Nginx server settings has a few required steps to be able to work.
 
 ## Issues 🔨
 
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/oc2-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/oc2-legal-module">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/sc-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/sc-legal-module">
 
 If you face any issue, you can create a new issue in the Issues Tab and we will be glad to help you out!
 
@@ -211,7 +211,7 @@ Submit these types of non-vulnerability related issues via Github.
 
 Please include your installed version and the relevant portions of your audit log.
 
-False negative or common bypasses should [create an issue](https://github.com/ayumi-cloud/oc2-legal-module/issues/new) so they can be addressed.
+False negative or common bypasses should [create an issue](https://github.com/ayumi-cloud/sc-legal-module/issues/new) so they can be addressed.
 
 Do this before submitting a vulnerability:
 
@@ -225,11 +225,11 @@ If in doubt, feel free to reach out to us!
 
 ## Code of Conduct 💯
 
-In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/oc2-legal-module/blob/master/CODE_OF_CONDUCT.md).
+In order to ensure that the Summer CMS proposal community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/ayumi-cloud/sc-legal-module/blob/master/CODE_OF_CONDUCT.md).
 
 ## For Future 🔮
 
-Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/ayumi-cloud/oc2-legal-module/projects) for a list of things to be done.
+Shoutout to people willing to contribute to this project. Please take a look at the [projects board](https://github.com/ayumi-cloud/sc-legal-module/projects) for a list of things to be done.
 
 ## Contributing ✨
 
