@@ -45,6 +45,7 @@
 
 - [Transparency](#transparency-)
 - [Introduction](#intro-)
+- [Naming Prefix](#)
 - [Goals](#goals-soccer)
 - [Privacy Controls](#privacy-controls-sparkles)
 - [Machine Learning](#machine-learning-computer)
@@ -78,6 +79,10 @@ There are lots of many mediocre projects trying to tackle this subject and use e
 The legal module has been fully optimized to work with `Desktop`, `Mobile`, `DPWA`, `PWA`, `AMP-HTML` and `AMP-HTML Stories`.
 
 (*) More platforms will be added in the near future.
+
+## Naming Prefix ✒️
+
+**Summer CMS uses the `sc-` naming prefix to advoid conflicts.**
 
 ## Goals :soccer:
 
