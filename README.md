@@ -135,9 +135,9 @@ The legal module has been optimized to work with CSP 3 and allow backwards compa
 
 **Installed version**: 6.0 or greater (Summer CMS uses latest LTS version).
 
-- [HTML5 Purifier](https://github.com/xemlock/htmlpurifier-html5)
+- [HTMLPurifier for Laravel](https://github.com/mewebstudio/Purifier)
 
-**Installed version**: 0.1.11 or greater.
+**Installed version**: 3.0 or greater.
 
 ## Enhancements ⭐
 
