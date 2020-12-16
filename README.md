@@ -160,27 +160,39 @@ The GA4 plugin has been tested in the following browsers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/chrome/chrome_48x48.png" alt="Chrome"><br>
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/chrome_48x48.png" alt="Chrome"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/firefox/firefox_48x48.png" alt="Firefox"><br>
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/firefox_48x48.png" alt="Firefox"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/safari/safari_48x48.png" alt="Safari"><br>
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/safari_48x48.png" alt="Safari"><br>
       9+
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/edge/edge_48x48.png" alt="Edge"><br>
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
       ✔
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
-      11
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
+      ✔
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alrra/browser-logos/39.2.2/src/opera/opera_48x48.png" alt="Opera"><br>
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
+      ✖
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/samsung-internet_48x48.png" alt="Samsung"><br>
+      ✔
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
       ✔
     </td>
   </tr>
