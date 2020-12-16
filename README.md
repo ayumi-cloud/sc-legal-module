@@ -238,7 +238,7 @@ If you find any bugs in the code or have any improvements in mind then feel free
 
 Patches and pull requests are encouraged. All code should follow the [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/) style guidelines. **Please include unit tests whenever possible!**
 
-### PSR ♻️
+## PSR ♻️
 
 This legal module uses some PSR standards to be the most interoperable possible:
 
