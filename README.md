@@ -155,7 +155,7 @@ Shoutout to people willing to contribute to this project. Please take a look at 
 
 ## Browser Support ✅
 
-The GA4 plugin has been tested in the following browsers:
+The legal module has been tested in the following browsers:
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ The GA4 plugin has been tested in the following browsers:
     </td>
     <td align="center">
       <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/edge_old_48x48.png" alt="Edge Legacy"><br>
-      ✔
+      ✖ (1)
     </td>
     <td align="center">
       <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/edge_48x48.png" alt="Edge"><br>
@@ -181,7 +181,7 @@ The GA4 plugin has been tested in the following browsers:
     </td>
     <td align="center">
       <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/internet-explorer_9-11_48x48.png" alt="Internet Explorer"><br>
-      ✖
+      ✖ (2)
     </td>
     <td align="center">
       <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/opera_48x48.png" alt="Opera"><br>
@@ -195,8 +195,20 @@ The GA4 plugin has been tested in the following browsers:
       <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/uc_48x48.png" alt="UC"><br>
       ✔
     </td>
+    <td align="center">
+      <img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/browser/vivaldi_48x48.png" alt="Vivaldi"><br>
+      3+
+    </td>
   </tr>
 </table>
+
+Notes:
+
+(1) Microsoft announced on 17 August that Edge Legacy will have its life support switched off on 9 March 2021, Summer CMS will support Edge Chromium only.
+
+(2) Internet Explorer version 1-11, Summer CMS will not support due to only supporting `Evergreen` brwosers.
+
+For a full list of browser support with Summer CMS, see here [Browser Support](https://github.com/ayumi-cloud/sc-main/blob/main/docs/browser_support.md)
 
 ## Changelog 🏆
 
