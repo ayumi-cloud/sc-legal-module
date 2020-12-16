@@ -26,12 +26,8 @@
 - [Privacy Controls](#privacy-controls-sparkles)
 - [Machine Learning](#machine-learning-computer)
 - [Citation](#citation-)
-- [Usage](#usage-)
-  - [Requirements](#requirements-)
-  - [Enable the following Apache httpd modules](#enable-the-following-apache-httpd-modules-)
-  - [Microsoft IIS Server](#microsoft-iis-server-%EF%B8%8F)
-  - [Nginx Server](#nginx-server-)
-  - [API's](#apis-gem)
+- [Requirements](#requirements-)
+- [API's](#apis-gem)
 - [Issues](#issues-)
 - [Completed Issues](#completed-issues-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
@@ -103,77 +99,11 @@ This module uses machine learning to help speed up creating the legal pages for 
 
 If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
 
-## Usage 🔧
+## Requirements 🚩
 
-<img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/laravel.svg">
+**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
 
-- Laravel `5.x` to `8.x` are supported.
-
-### Requirements 🚩
-
-This library requires the following:
-
-- PHP `7.3` or greater (in the near future we hope to increase this to php 7.4 or 8.0). PHP `7.3+` allows `SameSite` Cookie protection.
-
-PHP `8.0` is coming around November 2020 and we have plans to update our code around the end of this year. PHP is currently releasing **major** updates every two years! Therefore we plan to update and review the code every two years periodically. For update instructions please see here: [PHP 8.0 UPGRADE NOTES](https://github.com/php/php-src/blob/master/UPGRADING#L20)
-
-- Laravel 6.0 LTS (we currently use the latest LTS versions, due to the community consensus).
-
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/laravel-history.png"></p>
-
-Laravel 7 continues the improvements made in Laravel 6.x by introducing Laravel Airlock. Laravel Airlock provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. We recommend the following:
-
-- Laravel 6.0 LTS to use [Laravel Passport](https://laravel.com/docs/6.x/passport).
-
-- Laravel 7 to use [Laravel Airlock](https://laravel.com/docs/master/airlock). To learn more you can watch this video: [Laravel Airlock with Vue for SPA Auth](https://www.youtube.com/watch?v=D9oIu6jiYLk).
-
-- Laravel 8 is Now Released, for full details of new features see here: https://laravel-news.com/laravel8 and https://laravel.com/docs/8.x/releases
-
-- SQLite 3.7.11 or greater (we recommend the latest version of SQLite, which can be found here: [Latest Release](https://www.sqlite.org/index.html)).
-
-#### Enable the following Apache httpd modules 🔧
-
-We have a dedicated Apache section for users using `.htaccess` some configurations won't have any effect if the appropriate modules aren't enabled. So, in order for everything to work as intended, you need to ensure the you have the following Apache modules enabled:
-
-* [`mod_autoindex.c` (autoindex_module)](https://httpd.apache.org/docs/current/mod/mod_autoindex.html)
-* [`mod_deflate.c` (deflate_module)](https://httpd.apache.org/docs/current/mod/mod_deflate.html)
-* [`mod_expires.c` (expires_module)](https://httpd.apache.org/docs/current/mod/mod_expires.html)
-* [`mod_filter.c` (filter_module)](https://httpd.apache.org/docs/current/mod/mod_filter.html)
-* [`mod_headers.c` (headers_module)](https://httpd.apache.org/docs/current/mod/mod_headers.html)
-* [`mod_include.c` (include_module)](https://httpd.apache.org/docs/current/mod/mod_include.html)
-* [`mod_mime.c` (mime_module)](https://httpd.apache.org/docs/current/mod/mod_mime.html)
-* [`mod_rewrite.c` (rewrite_module)](https://httpd.apache.org/docs/current/mod/mod_rewrite.html)
-* [`mod_setenvif.c` (setenvif_module)](https://httpd.apache.org/docs/current/mod/mod_setenvif.html)
-
-For more detailed information on configuration files and how to use them, please check the appropriate Apache documentation:
-
-* <https://httpd.apache.org/docs/current/configuring.html>
-* <https://httpd.apache.org/docs/current/howto/htaccess.html>
-
-##### **Support**
-
- * Apache **2.4.10 or greater** (we are looking at adding some version 2.5 features in the near future)
-
-#### Microsoft IIS Server 🛠️
-
-The server settings target IIS7+ where replacement config is available for IIS8 (or simplification) it will be marked.
-
-##### **Support**
-
- * **IIS7+**
-
-#### Nginx Server 🔨
-
-Using the Nginx server settings has a few required steps to be able to work.
-
-* [Nginx Beginners Guide](https://nginx.org/en/docs/beginners_guide.html)
-* [Nginx Request Processing](https://nginx.org/en/docs/http/request_processing.html)
-
-##### **Support**
-
-* Nginx v**1.8.0**+
-
-#### API's :gem:
+## API's :gem:
 
 - Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
 
