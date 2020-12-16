@@ -54,37 +54,6 @@ The legal module has been fully optimized to work with `Desktop`, `Mobile`, `DPW
 
 (*) More platforms will be added in the near future.
 
-## Naming Prefix ✒️
-
-**Summer CMS uses the `sc-` naming prefix to advoid conflicts.**
-
-## Requirements 🚩
-
-**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
-
-=== TO DO ===
-
-## Machine Learning :computer:
-
-This module uses machine learning to help speed up creating the legal pages for your website / app and uses custom json datasets.
-
-## Citation 📚
-
-<a href="https://zenodo.org/">
-  <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
-</a>
-
-If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
-
-## API's :gem:
-
-- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
-
-==== TO DO ===
-
-
-
-
 ## Goals :soccer:
 
 The legal module makes it easier to create and manage with custom built tools for the following:
@@ -115,6 +84,80 @@ The legal module makes it easier to create and manage with custom built tools fo
 ## Privacy Controls :sparkles:
 
 This module allows the website / app's external users to have full control of their privacy policies giving them all the correct infomation and controls to adjust their settings they way they want. The developer is given easy to use tools to setup the privacy controls, using a simple wrapper method on sections of code they wish to allow the end-users to be able to control. Webmasters can setup their privacy in no time at all, without needing to write any code at all, using the module's custom tools and be able to preview everything in the backend, without needing to switch to the frontend to preview the end result.
+
+## Naming Prefix ✒️
+
+**Summer CMS uses the `sc-` naming prefix to advoid conflicts.**
+
+## Requirements 🚩
+
+**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
+
+=== TO DO ===
+
+## Machine Learning :computer:
+
+This module uses machine learning to help speed up creating the legal pages for your website / app and uses custom json datasets.
+
+## Citation 📚
+
+<a href="https://zenodo.org/">
+  <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
+</a>
+
+If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
+
+
+
+
+
+
+## API's :gem:
+
+- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
+
+
+=== TO DO ===
+
+The security modulen uses the new API's:
+
+### xxx API ⚙️
+
+=== LINK ===
+
+### xxx API ⚙️
+
+=== LINK ===
+
+## Deprecations and removals ⛔
+
+### xxx v4 ⚙️
+
+=== LINK ===
+ 
+
+## Vendor Packages 🧰
+
+- [Guzzle, PHP HTTP client](https://github.com/guzzle/guzzle)
+
+**Installed version**: 7.2.0 or greater.
+
+- [Google APIs Client Library for PHP](https://github.com/googleapis/google-api-php-client)
+
+**Installed version**: 2.7.0 or greater.
+
+## Enhancements ⭐
+
+- The security has been optimized to work a long side modern browsers that support the **back/forward cache** (bfcache) api. To learn more about bfcache, see these resources:
+
+    [Exploring a back/forward cache for Chrome](https://developers.google.com/web/updates/2019/02/back-forward-cache)
+    
+    [Browser Back/Forward Caches and their Benefit to Web Performance](https://dev.to/paulcalvano/browser-back-forward-caches-and-their-benefit-to-web-performance-4f4l)
+
+
+
+
+
 
 
 
