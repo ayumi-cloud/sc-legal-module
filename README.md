@@ -124,6 +124,13 @@ This module allows the website / app's external users to have full control of th
 
 If you face any issue, you can create a new issue in the Issues Tab and we will be glad to help you out!
 
+## Troubleshooting 👿
+
+### Something 💊
+
+=== TO DO ===
+
+
 ## Reporting a Vulnerability 💥
 
 We strive to make the code accessible to a wide audience of beginner and experienced users.
