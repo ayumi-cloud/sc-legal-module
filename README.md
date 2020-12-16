@@ -58,6 +58,31 @@ The legal module has been fully optimized to work with `Desktop`, `Mobile`, `DPW
 
 **Summer CMS uses the `sc-` naming prefix to advoid conflicts.**
 
+## Requirements 🚩
+
+**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
+
+## Machine Learning :computer:
+
+This module uses machine learning to help speed up creating the legal pages for your website / app and uses custom json datasets.
+
+## Citation 📚
+
+<a href="https://zenodo.org/">
+  <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
+</a>
+
+If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
+
+## API's :gem:
+
+- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
+
+==== TO DO ===
+
+
+
+
 ## Goals :soccer:
 
 The legal module makes it easier to create and manage with custom built tools for the following:
@@ -89,25 +114,9 @@ The legal module makes it easier to create and manage with custom built tools fo
 
 This module allows the website / app's external users to have full control of their privacy policies giving them all the correct infomation and controls to adjust their settings they way they want. The developer is given easy to use tools to setup the privacy controls, using a simple wrapper method on sections of code they wish to allow the end-users to be able to control. Webmasters can setup their privacy in no time at all, without needing to write any code at all, using the module's custom tools and be able to preview everything in the backend, without needing to switch to the frontend to preview the end result.
 
-## Machine Learning :computer:
 
-This module uses machine learning to help speed up creating the legal pages for your website / app and uses custom json datasets.
 
-## Citation 📚
 
-<a href="https://zenodo.org/">
-  <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
-</a>
-
-If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
-
-## Requirements 🚩
-
-**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
-
-## API's :gem:
-
-- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
 
 ## Issues 🔨
 
