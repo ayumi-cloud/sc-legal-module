@@ -273,10 +273,10 @@ Example:
 
 ## Copyright and License 📄
 
-<p align="left"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/mit.svg"></p>
+<p align="left"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/buttons/mit.svg"></p>
 
 This is free software, licensed under the MIT, Open Source Initiative.
 
 [⬆ back to top](#table-of-contents)
 
-<p align="center"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/luv.png"></p>
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/luv.png"></p>
