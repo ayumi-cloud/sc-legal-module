@@ -107,34 +107,27 @@ This module uses machine learning to help speed up creating the legal pages for 
 
 If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
 
+## API's 💎
 
+The legal module uses the following API's:
 
-
-
-
-## API's :gem:
-
-- Javascript uses **Trusted Types API** to prevent DOM-based cross-site scripting vulnerabilities. Also the **MutationObserver API** to update the machine learning DOM nodes.
-
-
-=== TO DO ===
-
-The security modulen uses the new API's:
-
-### xxx API ⚙️
-
-=== LINK ===
-
-### xxx API ⚙️
-
-=== LINK ===
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
+- [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
+- [Intersection Observer](https://www.w3.org/TR/intersection-observer/)
+- [Accessible Rich Internet Applications WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/)
+- [Native Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
+- [Content Security Policy Level 3](https://www.w3.org/TR/CSP3/)
+- [Transparency and Consent Framework (TCF) v2.0](https://iabeurope.eu/tcf-2-0/)
+- [GDPR Spec](https://gdpr-info.eu/)
+- [ePrivacy Spec](https://edpb.europa.eu/our-work-tools/our-documents/topic/e-privacy-regulation_en)
+- [California Consumer Privacy Act Spec](https://oag.ca.gov/privacy/ccpa)
 
 ## Deprecations and removals ⛔
 
-### xxx v4 ⚙️
+- [Content Security Policy Level 1](https://www.w3.org/TR/CSP1/)
+- [Content Security Policy Level 2](https://www.w3.org/TR/CSP2/)
 
-=== LINK ===
- 
+The legal module has been optimized to work with CSP 3 and allow backwards compatibility with browsers supporting older CSP versions.
 
 ## Vendor Packages 🧰
 
@@ -146,22 +139,20 @@ The security modulen uses the new API's:
 
 **Installed version**: 2.7.0 or greater.
 
+
+
+=== TO DO ===
+
+
+
+
 ## Enhancements ⭐
 
-- The security has been optimized to work a long side modern browsers that support the **back/forward cache** (bfcache) api. To learn more about bfcache, see these resources:
+- The legal module has been optimized to work a long side modern browsers that support the **back/forward cache** (bfcache) api. To learn more about bfcache, see these resources:
 
     [Exploring a back/forward cache for Chrome](https://developers.google.com/web/updates/2019/02/back-forward-cache)
     
     [Browser Back/Forward Caches and their Benefit to Web Performance](https://dev.to/paulcalvano/browser-back-forward-caches-and-their-benefit-to-web-performance-4f4l)
-
-
-
-
-
-
-
-
-
 
 ## Issues 🔨
 
