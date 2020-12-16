@@ -1,21 +1,19 @@
-<h3 align="center">Codename: Summer CMS (our October CMS update proposal) - Legal Module</h3>
+<h1 align="center">Codename: Summer CMS - Legal Module</h1>
+<p align="center">(our OCMS update proposal)</p>
+  
+<p align="center"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/php.svg"> <a href="https://codecov.io/gh/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/coverage.svg" alt="Codecov"></a> <a href="https://pullreminders.com?ref=badge"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/pull.svg" alt="Pull Reminders"></a> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
 
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/legal-cover.jpg"></p>
 
-<p align="center"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/stars.svg" alt="stars"> <a href="https://travis-ci.org/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/travis.svg" alt="Build Status"></a> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/php.svg"> <a href="https://codecov.io/gh/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/coverage.svg" alt="Codecov"></a> <a href="https://pullreminders.com?ref=badge"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/pull.svg" alt="Pull Reminders"></a> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/conduct.svg" alt="conduct"> <img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/docs.svg" alt="docs"></p>
+This repo to gather legal enhancement ideas and to monitor progress. Feel free to add issues containing legal ideas, requests and infomation.
 
-<p align="center"><a href="https://paypal.me/#"><img src="https://github.com/ayumi-cloud/oc-security-module/blob/master/src/assets/images/buttons/paypal-button.svg"></a></p>
-
-<p align="center">This repo to gather legal enhancement ideas and to monitor progress. Feel free to add issues containing legal ideas, requests and infomation.</p>
-
-<p align="center"><strong>The legal code is not held in this repo - but in a private repo (being heavily developed)</strong></p>
+**The legal code is not held in this repo - but in a private repo (being heavily developed)**
 
 ---
 
 ## Summer CMS Modules :eyes:
 
 **Note: (*) This is the legal module, see here for the full list of [Summer CMS Modules](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#summer-cms-modules-).**
-
 
 ## Table of contents
 
@@ -37,6 +35,10 @@
 - [PSR](#psr-%EF%B8%8F)
 - [Semantic Versioning](#semantic-versioning-)
 - [Copyright and License](#copyright-and-license-)
+
+
+
+
 
 ## Transparency 📢
 
