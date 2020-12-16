@@ -62,6 +62,8 @@ The legal module has been fully optimized to work with `Desktop`, `Mobile`, `DPW
 
 **A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
 
+=== TO DO ===
+
 ## Machine Learning :computer:
 
 This module uses machine learning to help speed up creating the legal pages for your website / app and uses custom json datasets.
