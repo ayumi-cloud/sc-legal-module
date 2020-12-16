@@ -122,7 +122,7 @@ This module allows the website / app's external users to have full control of th
 
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/ayumi-cloud/sc-legal-module?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ayumi-cloud/sc-legal-module">
 
-If you face any issue, you can create a new issue in the Issues Tab and we will be glad to help you out!
+If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
 ## Troubleshooting 👿
 
