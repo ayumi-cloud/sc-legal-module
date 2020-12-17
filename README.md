@@ -15,30 +15,36 @@ This repo to gather legal enhancement ideas and to monitor progress. Feel free t
 
 **Note: (*) This is the legal module, see here for the full list of [Summer CMS Modules](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#summer-cms-modules-).**
 
-## Table of contents
+## Table of Contents 📑
 
 - [Transparency](#transparency-)
 - [Introduction](#intro-)
-- [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Goals](#goals-soccer)
 - [Privacy Controls](#privacy-controls-sparkles)
+- [Naming Prefix](#naming-prefix-%EF%B8%8F)
+- [Requirements](#requirements-)
 - [Machine Learning](#machine-learning-computer)
 - [Citation](#citation-)
-- [Requirements](#requirements-)
 - [API's](#apis-gem)
+- [Deprecations and removals](#deprecations-and-removals-)
+- [Vendor Packages](#vendor-packages-)
+- [Enhancements](#enhancements-)
 - [Issues](#issues-)
-- [Completed Issues](#completed-issues-)
+- [Troubleshooting](#troubleshooting-)
+    - [Something](#something-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
 - [Code of Conduct](#code-of-conduct-)
 - [For Future](#for-future-)
-- [Contributing](#contributing-)
+- [Browser Support ](#browser-support-)
+   - [Notes](#notes) 
+- [Changelog](#changelog-)
+- [Contributions, Feature Requests and Feedback](#contributions-feature-requests-and-feedback-)
 - [PSR](#psr-%EF%B8%8F)
+- [PHP Coding Standards Fixer](#php-coding-standards-fixer-)
+    - [Installation](#installation-)
+    - [Usage](#usage-)
 - [Semantic Versioning](#semantic-versioning-)
 - [Copyright and License](#copyright-and-license-)
-
-
-
-
 
 ## Transparency 📢
 
