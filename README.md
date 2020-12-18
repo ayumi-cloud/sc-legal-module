@@ -115,7 +115,7 @@ If you use this legal module for your research, then kindly cite it. Click the a
 
 ## API's 💎
 
-The legal module uses the following API's:
+Below are some of the API's the legal modules uses (this is not a complete list):
 
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 - [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
