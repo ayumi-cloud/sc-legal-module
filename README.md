@@ -5,15 +5,9 @@
 
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/legal-cover.jpg"></p>
 
-This repo to gather legal enhancement ideas and to monitor progress. Feel free to add issues containing legal ideas, requests and infomation.
-
-**The legal code is not held in this repo - but in a private repo (being heavily developed)**
-
----
-
 ## Summer CMS Modules :eyes:
 
-**Note: (*) This is the legal module, see here for the full list of [Summer CMS Modules](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#summer-cms-modules-).**
+**Note: This is the legal module for Summer CMS, see here for the full list of [Summer CMS Modules](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#summer-cms-modules-).**
 
 ## Table of Contents 📑
 
