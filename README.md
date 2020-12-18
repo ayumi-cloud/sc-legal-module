@@ -97,9 +97,9 @@ This module allows the website / app's external users to have full control of th
 
 ## Requirements 🚩
 
-**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
+This module has been optimized to work with php `7.4.x` and `8.x` versions - we recommend upgrading from any lower php version.
 
-=== TO DO ===
+**A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
 
 ## Machine Learning :computer:
 
