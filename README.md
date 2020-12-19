@@ -69,6 +69,7 @@ The legal module makes it easier to create and manage with custom built tools fo
 - Copyscape Plagiarism Policy
 - Creative Commons License
 - Data Protection Officer (DPO)
+- Data Retention
 - Digital Millennium Copyright Act (DMCA)
 - ePrivacy
 - EU Representative
