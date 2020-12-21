@@ -50,6 +50,8 @@ This project is completely transparent and honest, before we started we contacte
 
 Over years we have coded and created well over a hundred pull requests (under various github accounts) which have been merged to the October core, we have never asked or recevived any money for any of the pull requests. We use the cms for professional purposes and therefore it is beneficial for our companies to have a professional working solution to give to our end-users and clients. In order for us to delivery a high quality product we made the discussion to update the cms with new and exciting features and modernize old and existing features, there are breaking change!
 
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/gdpr.gif"></p>
+
 ## Introduction ⭐
 
 There are lots of many mediocre projects trying to tackle this subject and use either insecure cookies or dont even pass ePrivacy and GDPR laws properly. Laravel is a wonderful framework and we have built all the tools directly into the Summer CMS framework for developers and webmasters to easily create all their legal web pages for their websites and apps. Everything is fully customizable and takes very little time to setup.
