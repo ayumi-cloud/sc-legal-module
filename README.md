@@ -50,7 +50,7 @@ This project is completely transparent and honest, before we started we contacte
 
 Over years we have coded and created well over a hundred pull requests (under various github accounts) which have been merged to the October core, we have never asked or recevived any money for any of the pull requests. We use the cms for professional purposes and therefore it is beneficial for our companies to have a professional working solution to give to our end-users and clients. In order for us to delivery a high quality product we made the discussion to update the cms with new and exciting features and modernize old and existing features, there are breaking change!
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/gdpr.gif"></p>
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-legal-module/blob/master/src/assets/images/gdpr.svg" width="130"></p>
 
 ## Introduction ⭐
 
