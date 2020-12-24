@@ -26,7 +26,7 @@
 - [Issues](#issues-)
 - [Troubleshooting](#troubleshooting-)
     - [Default styling](#default-styling-)
-    - [CSP issue with consent banner]()
+    - [CSP issue with consent banner](#csp-issue-with-consent-banner-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
 - [Code of Conduct](#code-of-conduct-)
 - [For Future](#for-future-)
