@@ -161,7 +161,25 @@ If you face any issue, you can create a new issue in the `Issues` tab and we wil
 
 ## Troubleshooting 👿
 
-### Something 💊
+### Default styling 💊
+
+The default theme styling has been coded to accept `box-sizing: border-box`, make sure any parent css styles do not interfere, for example:
+
+```css
+* {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+```
+
+The above code would cause an issue for the default theme styles and can be corrected with this change:
+
+```css
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+```
 
 === TO DO ===
 
