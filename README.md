@@ -26,6 +26,7 @@
 - [Issues](#issues-)
 - [Troubleshooting](#troubleshooting-)
     - [Default styling](#default-styling-)
+    - [CSP issue with consent banner]()
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
 - [Code of Conduct](#code-of-conduct-)
 - [For Future](#for-future-)
@@ -180,6 +181,16 @@ The above code would cause an issue for the default theme styles and can be corr
     box-sizing: border-box;
 }
 ```
+
+### CSP issue with consent banner 💊
+
+If you have a CSP policy running on the page with the consent banner, you may see the following error message:
+
+```
+Refused to send form data to because it violates the following Content Security Policy directive: "form-action 'none'".
+```
+
+The solution is to add `"form-action 'self'"` to whitelist the consent banner as it's wrapped with form tags that send a Cross-Site Request Forgery (CSRF) token for protection. 
 
 ## Reporting a Vulnerability 💥
 
