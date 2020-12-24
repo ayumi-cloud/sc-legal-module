@@ -25,7 +25,7 @@
 - [Enhancements](#enhancements-)
 - [Issues](#issues-)
 - [Troubleshooting](#troubleshooting-)
-    - [Something](#something-)
+    - [Default styling](#default-styling-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
 - [Code of Conduct](#code-of-conduct-)
 - [For Future](#for-future-)
