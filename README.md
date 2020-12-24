@@ -181,9 +181,6 @@ The above code would cause an issue for the default theme styles and can be corr
 }
 ```
 
-=== TO DO ===
-
-
 ## Reporting a Vulnerability 💥
 
 We strive to make the code accessible to a wide audience of beginner and experienced users.
