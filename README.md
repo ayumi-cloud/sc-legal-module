@@ -192,6 +192,10 @@ Refused to send form data to because it violates the following Content Security 
 
 The solution is to add `"form-action 'self'"` to whitelist the consent banner as it's wrapped with form tags that send a Cross-Site Request Forgery (CSRF) token for protection. 
 
+### AMP-HTML consent banner not being displayed 💊
+
+The AMP-HTML consent banner is wrapped with form tags that send a Cross-Site Request Forgery (CSRF) token for protection. If you add the form tags inside the `<amp-consent>` elements the AMP-HTML consent banner will be hidden! Make sure to add the form tags **outside** the `<amp-consent>` elements.
+
 ## Reporting a Vulnerability 💥
 
 We strive to make the code accessible to a wide audience of beginner and experienced users.
