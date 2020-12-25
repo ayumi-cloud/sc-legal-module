@@ -195,7 +195,7 @@ The solution is to add `"form-action 'self'"` to whitelist the consent banner as
 
 ### AMP-HTML consent banner not being displayed 💊
 
-The AMP-HTML consent banner is wrapped with form tags that send a Cross-Site Request Forgery (CSRF) token for protection. If you add the form tags inside the `<amp-consent>` elements the AMP-HTML consent banner will be hidden! Make sure to add the form tags **outside** the `<amp-consent>` elements.
+The AMP-HTML consent banner is wrapped with form tags that send a Cross-Site Request Forgery (CSRF) token for protection. If you add the form tags inside the `<amp-consent>` elements the AMP-HTML consent banner will be hidden! Make sure to add the form tags **outside** the `<amp-consent>` elements. This shouldn't be an issue if you don't modify the component code.
 
 ## Reporting a Vulnerability 💥
 
