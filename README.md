@@ -27,6 +27,7 @@
 - [Troubleshooting](#troubleshooting-)
     - [Default styling](#default-styling-)
     - [CSP issue with consent banner](#csp-issue-with-consent-banner-)
+    - [AMP-HTML consent banner not being displayed](#amp-html-consent-banner-not-being-displayed-)
 - [Reporting a Vulnerability](#reporting-a-vulnerability-)
 - [Code of Conduct](#code-of-conduct-)
 - [For Future](#for-future-)
