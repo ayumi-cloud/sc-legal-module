@@ -184,7 +184,7 @@ The above code would cause an issue for the default theme styles and can be corr
 
 ### CSP issue with consent banner 💊
 
-If you have a CSP policy running on the page with the consent banner, you may see the following error message:
+If you have a CSP policy running on the page with the consent banner, you may see the following error message when pressing the buttons to either `accept`, `decline` or `dismiss` the consent:
 
 ```
 Refused to send form data to because it violates the following Content Security Policy directive: "form-action 'none'".
