@@ -121,7 +121,7 @@ This module uses machine learning to help speed up creating the legal pages for 
 ## Citation 📚
 
 <a href="https://zenodo.org/">
-  <img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
+  <img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/buttons/citation.svg" />
 </a>
 
 If you use this legal module for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this legal module and the diffferent citation formats like: IEEE, APA, BibTeX, CSL, DataCite, Dublin Core, DCAT, JSON, JSON-LD, GeoJSON, MARCXML and Mendeley etc.
@@ -334,7 +334,7 @@ This legal module uses some PSR standards to be the most interoperable possible:
 
 We also suggest using Cross-browser testing provided by BrowserStack (*) where a real-browser can't be used in-house.
 
-<p align="center"><img src="https://github.com/summer-cms/oc-security-module/blob/master/src/assets/images/browser-stack.png"></p>
+<p align="center"><img src="https://github.com/summer-cms/sc-security-module/blob/master/src/assets/images/browser-stack.png"></p>
 
 ## PHP Coding Standards Fixer ⭕
 
