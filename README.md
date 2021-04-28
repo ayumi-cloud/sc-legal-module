@@ -15,6 +15,8 @@
 - [Introduction](#intro-)
 - [Goals](#goals-soccer)
 - [Privacy Controls](#privacy-controls-sparkles)
+- [Privacy as Default](#privacy-as-default-)
+  - [FLoC](#floc-)
 - [Vanilla Code](#vanilla-code-)
 - [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Requirements](#requirements-)
