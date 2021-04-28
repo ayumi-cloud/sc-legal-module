@@ -137,17 +137,18 @@ If you use this legal module for your research, then kindly cite it. Click the a
 
 Below are some of the API's the legal module uses (this is not a complete list):
 
-- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
-- [Intersection Observer](https://www.w3.org/TR/intersection-observer/)
 - [Accessible Rich Internet Applications WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-- [Native Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
+- [California Consumer Privacy Act Spec](https://oag.ca.gov/privacy/ccpa)
 - [Content Security Policy Level 3](https://www.w3.org/TR/CSP3/)
+- [ePrivacy Spec](https://edpb.europa.eu/our-work-tools/our-documents/topic/e-privacy-regulation_en)
+- [Federated Learning of Cohorts (FLoC)](https://github.com/WICG/floc)
+- [GDPR Spec](https://gdpr-info.eu/)
+- [Intersection Observer](https://www.w3.org/TR/intersection-observer/)
+- [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
+- [Native Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 - [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
 - [Transparency and Consent Framework (TCF) v2.0](https://iabeurope.eu/tcf-2-0/)
-- [GDPR Spec](https://gdpr-info.eu/)
-- [ePrivacy Spec](https://edpb.europa.eu/our-work-tools/our-documents/topic/e-privacy-regulation_en)
-- [California Consumer Privacy Act Spec](https://oag.ca.gov/privacy/ccpa)
+- [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
 
 ## Deprecations and removals ⛔
 
