@@ -97,13 +97,13 @@ The legal module makes it easier to create and manage with custom built tools fo
 
 This module allows the website / app's external users to have full control of their privacy policies giving them all the correct infomation and controls to adjust their settings they way they want. The developer is given easy to use tools to setup the privacy controls, using a simple wrapper method on sections of code they wish to allow the end-users to be able to control. Webmasters can setup their privacy in no time at all, without needing to write any code at all, using the module's custom tools and be able to preview everything in the backend, without needing to switch to the frontend to preview the end result.
 
-<p align="center"><img src="https://github.com/summer-cms/sc-legal-module/blob/master/src/assets/images/vanilla.jpg"></p>
-
 ## Privacy as Default 👀
 
 ### FLoC 🔔
 
 FLoC enables ad selection without sharing the browsing behaviour of individual users. A site should be able to declare that it does not want to be included in the user's list of sites for cohort calculation. Summer CMS puts it's users privacy first and so sets the `opt-out` as the default, webmasters and users can then `opt-in`. This also passes GDPR/ePrivacy laws.
+
+<p align="center"><img src="https://github.com/summer-cms/sc-legal-module/blob/master/src/assets/images/vanilla.jpg"></p>
 
 ## Vanilla Code 🍦
 
