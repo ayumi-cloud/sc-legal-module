@@ -133,7 +133,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### Strong Customer Authentication (SCA) 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/sca.jpg"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/sca.png"></p>
 
 Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments and meet SCA requirements, you need to build additional authentication into your checkout flow.
 
