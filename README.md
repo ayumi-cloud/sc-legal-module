@@ -99,13 +99,13 @@ This module allows the website / app's external users to have full control of th
 
 ## Privacy as Default 👀
 
-### General Data Protection Regulation (GDPR)
+### General Data Protection Regulation (GDPR) 🔔
 
 <p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
 
 The General Data Protection Regulation (GDPR) is one of the most wide-ranging pieces of legislation passed by the EU in recent memory. It was introduced to standardise data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
 
-### ePrivacy Regulation
+### ePrivacy Regulation 🔔
 
 <p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
 
@@ -117,7 +117,7 @@ Note that, unlike the GDPR, the ePrivacy Regulation does not apply to just perso
 
 Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
 
-### California Consumer Privacy Act (CCPA)
+### California Consumer Privacy Act (CCPA) 🔔
 
 <p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
 
@@ -128,6 +128,22 @@ Businesses are subject to CCPA if they meet the requirements of having gross ann
 The CCPA requires business privacy policies to include information on consumers' privacy rights and how to exercise them: the Right to Know, the Right to Delete, the Right to Opt-Out of Sale and the Right to Non-Discrimination.
 
 Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### Strong Customer Authentication (SCA) 🔔
+
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+
+Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments and meet SCA requirements, you need to build additional authentication into your checkout flow.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and customize secure settings and sca notices.
+
+### The Second Payment Services Directive (PSD2) 🔔
+
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+
+The Payment Services Directive Two (PSD2) is a piece of legislation designed to force providers of payment services to improve customer authentication processes and to also bring in new regulation around third-party involvement.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and customize secure settings and sca notices.
 
 ### FLoC 🔔
 
