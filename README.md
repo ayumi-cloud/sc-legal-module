@@ -99,15 +99,17 @@ This module allows the website / app's external users to have full control of th
 
 ## Privacy as Default 👀
 
+The Summer CMS takes privacy and user data seriously, we strongly believe in putting the user first and being fully transparent! Below lists some major components. However, for a full list see the legal module section here: https://github.com/summercms/sc-legal-module#goals-soccer
+
 ### General Data Protection Regulation (GDPR) 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/gdpr.jpg"></p>
 
 The General Data Protection Regulation (GDPR) is one of the most wide-ranging pieces of legislation passed by the EU in recent memory. It was introduced to standardise data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
 
 ### ePrivacy Regulation 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/eprivacy.jpg"></p>
 
 The ePrivacy Regulation will complement the GDPR’s general rules on personal data processing by providing specific rules governing electronic communications.
 
@@ -119,7 +121,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### California Consumer Privacy Act (CCPA) 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/ccpa.jpg"></p>
 
 The California Consumer Privacy Act (CCPA) is a law that allows any California consumer to demand to see all the information a company has saved on them, as well as a full list of all the third parties that data is shared with.
 
@@ -131,7 +133,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### Strong Customer Authentication (SCA) 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/sca.jpg"></p>
 
 Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments and meet SCA requirements, you need to build additional authentication into your checkout flow.
 
@@ -139,7 +141,7 @@ Summer CMS has a dedicated legal module to easily complie with current laws and 
 
 ### The Second Payment Services Directive (PSD2) 🔔
 
-<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/psd2.jpg"></p>
 
 The Payment Services Directive Two (PSD2) is a piece of legislation designed to force providers of payment services to improve customer authentication processes and to also bring in new regulation around third-party involvement.
 
