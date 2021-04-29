@@ -99,6 +99,36 @@ This module allows the website / app's external users to have full control of th
 
 ## Privacy as Default 👀
 
+### General Data Protection Regulation (GDPR)
+
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+
+The General Data Protection Regulation (GDPR) is one of the most wide-ranging pieces of legislation passed by the EU in recent memory. It was introduced to standardise data protection law across the single market and give people in a growing digital economy greater control over how their personal information is used. Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### ePrivacy Regulation
+
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+
+The ePrivacy Regulation will complement the GDPR’s general rules on personal data processing by providing specific rules governing electronic communications.
+
+As such, the ePrivacy Regulation will take precedent over the GDPR in situations where both laws apply.
+
+Note that, unlike the GDPR, the ePrivacy Regulation does not apply to just personal data. It also affects, for instance, B2B marketing.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
+### California Consumer Privacy Act (CCPA)
+
+<p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
+
+The California Consumer Privacy Act (CCPA) is a law that allows any California consumer to demand to see all the information a company has saved on them, as well as a full list of all the third parties that data is shared with.
+
+Businesses are subject to CCPA if they meet the requirements of having gross annual revenues of more than $25 million; buy, receive or sell the personal information of 50,000 or more consumers, households or devices in California; or derive 50% or more annual revenue from selling consumers' personal information.
+
+The CCPA requires business privacy policies to include information on consumers' privacy rights and how to exercise them: the Right to Know, the Right to Delete, the Right to Opt-Out of Sale and the Right to Non-Discrimination.
+
+Summer CMS has a dedicated legal module to easily complie with current laws and sets the `opt-out` as the default and allows webmasters and users can then `opt-in`.
+
 ### FLoC 🔔
 
 <p align="center"><img src="https://github.com/summercms/sc-legal-module/blob/master/src/assets/images/floc.png"></p>
