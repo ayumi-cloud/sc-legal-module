@@ -82,11 +82,12 @@ The legal module makes it easier to create and manage with custom built tools fo
 - Data Protection Officer (DPO)
 - Data Retention
 - Digital Millennium Copyright Act (DMCA)
-- ePrivacy
+- ePrivacy Regulation
 - EU Representative
 - EU-U.S. Privacy Shield Frameworks
+- Europe, Middle East and Africa (EMEA) Privacy Policy
 - Federated Learning of Cohorts (FLoC)
-- GDPR
+- General Data Protection Regulation (GDPR)
 - Guidelines for Law Enforcement
 - Health Insurance Portability and Accountability Act (HIPAA)
 - Master Services Agreement (MSA)
