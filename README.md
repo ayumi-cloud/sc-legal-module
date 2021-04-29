@@ -95,8 +95,10 @@ The legal module makes it easier to create and manage with custom built tools fo
 - Privacy Policy
 - Push Notification Policy
 - Spam Abuse
+- Strong Customer Authentication (SCA)
 - Swiss-U.S. Privacy Shield Frameworks
 - Terms and Conditions
+- The Second Payment Services Directive (PSD2)
 
 ## Privacy Controls :sparkles:
 
