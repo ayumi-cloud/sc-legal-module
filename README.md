@@ -88,7 +88,7 @@ The legal module makes it easier to create and manage with custom built tools fo
 - Federated Learning of Cohorts (FLoC)
 - General Data Protection Regulation (GDPR)
 - Guidelines for Law Enforcement
-- Health Insurance Portability and Accountability Act (HIPAA)
+- Health Insurance Portability and Accountability Act (HIPAA) Compliance
 - Master Services Agreement (MSA)
 - Opt-In Policy
 - Opt-Out Policy
